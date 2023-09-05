@@ -7,6 +7,7 @@
 // @changelog    Atualizacao do código!
 // @match        https://clubedodual.com/forums/c/*
 // @match        https://clubedodual.com/forums/t/*
+// @match        https://clubedodual.com/pesquisar/?q=*
 // @match        https://www.imdb.com/title*
 // @grant        GM_info
 // @grant        GM_addStyle
