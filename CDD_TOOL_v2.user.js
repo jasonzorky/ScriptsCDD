@@ -4,7 +4,7 @@
 // @version      2.01
 // @description  Corrige a URL de Download no Clube do Dual ao editar um tópico e altera o texto do link para "Link OFF" quando estiver offline no MEGA, Google Drive, OneDrive ou outras URLs. Abre um modal no IMDb para seleção de postagem do título no fórum CDD.
 // @author       JasonZorky
-// @changelog    Atualizacao do código!
+// @changelog    Atualização do código!
 // @match        https://clubedodual.com/forums/c/*
 // @match        https://clubedodual.com/forums/t/*
 // @match        https://clubedodual.com/pesquisar/?q=*
