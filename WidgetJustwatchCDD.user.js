@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         WidgetJustwatchCDD - WIDGET COM OS STREAMINGS DO JUSTWATCH
-// @namespace    JasonZorky
+// @namespace    ZORKY
 // @version      1.65
 // @description  Adiciona Uma Barra do Justwatch Com os Streamings Disponiveis Do Próprio Filme ou Série no IMDB e no CDD!
+// @author       ZORKY
 // @changelog    Corrigido a obtenção da classe do imdb!
 // @match        https://clubedodual.com/forums/*
 // @match        https://www.imdb.com/title/*
